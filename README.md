@@ -1,5 +1,5 @@
 The Pedra
-Projeto simples, uma foto tirada em uma camera antiga, de dwayne johnson, The Rock. Quem vê, não poderia imaginar que foi feita por IA.
+Projeto simples, uma foto tirada em uma camera antiga, de dwayne johnson, The Rock.
 
 Utilizei o Leonardo.ai, o primo gratuito do midjourney.
 
